@@ -27,7 +27,10 @@ The values outside the minimum and maximum values are designated as Outliers.<br
 <p align="center">
   <img width="100" height="300" src=images/IQR.png>
 </p><br>
-
+ * As you can see the visualization or graph, I pick the highest correlate feature with the label value which is "V14".  
+<p align="center">
+  <img  src=images/graph2.png>
+</p><br>
 
 * SMOTE(Synthetic Minority Over-Sampling Technique)
   * When learning a data set with an unbalanced distribution of labels, it is difficult to learn a proper type because the number of data with an abnormal label is very small, whereas the number of data with a normal label is very large, so learning is unilaterally biased to a normal label. It is difficult to detect abnormal data properly.
