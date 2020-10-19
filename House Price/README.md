@@ -14,11 +14,14 @@ According to the Kaggle description, the practice skills are "Creative feature e
 Like many other kaggle project, this proejct are already solved by many other data scientist. I reference got my source from the posting on this competition, but I built my own
 model and understanding for this project.
 
+
 # Model
 
 <p align="center">
   <img  src=images/process.png>
 </p>
+
+#Feature Engineering
 
 
 
