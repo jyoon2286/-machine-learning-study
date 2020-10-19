@@ -24,5 +24,5 @@ The folder structure for this repository is:
     
 # Projects
 * [Credit Card Fraud Detection](https://github.com/jyoon2286/machine-learning-study/tree/main/Credit%20Card%20Fraud%20Detection) : imbalanced data, Log, IQR, and SMOTE
-* [House Price](https://github.com/jyoon2286/machine-learning-study/tree/main/House%20Price) : Lasso and Ridge Regression, Linear regression, Regression tree, and anomal analysis
+* [House Price](https://github.com/jyoon2286/machine-learning-study/tree/main/House%20Price) : Lasso and Ridge regression, Linear regression, Regression tree, and anomal analysis
 * [Decision Tree](https://github.com/jyoon2286/machine-learning-study/tree/main/Decision%20Tree) : basic decision tree model
