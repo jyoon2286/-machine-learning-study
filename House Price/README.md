@@ -20,10 +20,31 @@ model and understanding for this project.
 <p align="center">
   <img  src=images/process.png>
 </p>
+First thing that I did was checking label value to see if there are any observation. As you can see the left graph, the target value which is sale price was skewed to left. I applied log transformed to make it normal distribution. 
+<p align="center">
+  <img  src=images/graph1.png>
+</p>
+I applied Linear Regression, Ridge, and Lasso model with Cross Value evalution. I visualized the regression coefficient values and column names with top 10 and bottom 10 (the largest 10 as -value. 
+<p align="center">
+  <img  src=images/graph3.png>
+</p>
+Once I did that, I tunned the hyper parameter while changing the alpha value of each model, and applied same models. From the first result, I found the lasso model had quite high RMSE value, so I started the alpha value 0.001, 0.005, and so on, which they are quite close and detail alph value. The result was that the RMSE for Lasso regression reduced to similar value with Ridge regression. 
+<p align="center">
+  <img  src=images/graph4.png>
+</p>
 
 # Feature Engineering
+### Log Transformed
+<p align="center">
+  <img  src=images/graph5.png>
+</p>
 
+### Outlier 
+<p align="center">
+  <img  src=images/graph6.png>
+</p>
 
+### Linear Regression Model & Regression Tree Model 
 
 # Output
 |  Feature engineering | ML algorithm  | RMSE |
