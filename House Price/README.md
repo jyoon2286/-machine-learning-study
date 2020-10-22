@@ -35,6 +35,7 @@ Once I did that, I tunned the hyper parameter while changing the alpha value of 
 
 # Feature Engineering
 ### Log Transformed
+After checking the data distribution skewness for numeric features, I applied log transformed to the all skewed data and tunned hyperparameter optimization for the alpha value. The below visualization shows the coefficient value for each feature. 
 <p align="center">
   <img  src=images/graph5.png>
 </p>
