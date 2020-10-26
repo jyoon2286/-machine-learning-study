@@ -40,7 +40,8 @@ After checking the data distribution skewness for numeric features, I applied lo
   <img  src=images/graph5.png>
 </p>
 
-### Outlier 
+### Outlier
+After applying log tranformed, I created a graph for the salesprice to see if there was any outlier data. The tow points in red box seemed not related with the all other points,so I found the index of the two points and got rid of the training and testing data.  
 <p align="center">
   <img  src=images/graph6.png>
 </p>
