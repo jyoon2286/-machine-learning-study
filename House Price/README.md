@@ -15,7 +15,7 @@ Like many other kaggle project, this proejct are already solved by many other da
 model and understanding for this project.
 
 
-# Model
+# Models
 
 <p align="center">
   <img  src=images/process.png>
