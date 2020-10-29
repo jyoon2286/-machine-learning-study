@@ -58,6 +58,7 @@ The values outside the minimum and maximum values are designated as Outliers.<br
 | SMOTE | Logistic Regression | 0.0542  | 0.9247  | 0.9737  |
 | SMOTE | LightGBM   |0.9323   |0.8439   | 0.9789  |
 
+Since we are detecing fraud cases, we need to look at recall value or senesitiy value because evaluate how many samples consider as fraud cases which is TP and avoid FN sample. 
 The best results are when I get rid of outlier using IQR as feature engineering and LightGBM for ML algorithm, and I use SMOTE as feature engineering and LightGBM for ML algorithm. 
 
 
