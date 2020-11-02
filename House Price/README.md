@@ -3,7 +3,7 @@
 </p>
 
 # Name
-House Prices: Advanced Regression Techniques
+Predicting House Prices: Advanced Regression Techniques
 
 # Data
 The data is from Kaggle and the link is https://www.kaggle.com/c/house-prices-advanced-regression-techniques
