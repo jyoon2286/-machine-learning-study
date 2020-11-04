@@ -1,6 +1,7 @@
 <p align="center">
   <img width="600" height="400" src = images/analysis.jpg>
 </p>
+
 # Name
 Clustering customer group for online retail data Set
 
@@ -15,13 +16,16 @@ Due to the nature of unsupervised learning, it is difficult to accurately evalua
 
 # Visualization
 Evaluation of silhouette coefficients after clustering with K-Means 
+
 <p align="center">
-  <img width="600" height="400" src = images/silhouette and kmeans plot.jpg>
+  <img width="600" height="400" src = images/silhouette and kmeans plot.png>
 </p>
 Visualization after log transformation
+
 <p align="center">
   <img width="600" height="400" src = images/silhouette and kmeans plot_2.jpg>
 </p>
+
 # Output 
 
 # Reference 
