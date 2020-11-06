@@ -15,7 +15,7 @@ Data classification There is a wider collection of data with a wider cluster val
 Due to the nature of unsupervised learning, it is difficult to accurately evaluate the performance of any indicator. Nevertheless, silhouette analysis is used as a method of evaluating the performance of clustering.
 
 # Visualization
-Evaluation of silhouette coefficients after clustering with K-Means 
+Evaluation of silhouette coefficients after clustering with K-Means : Data points in groups are overrlaped
 
 <p align="center">
   <img width="600" height="400" src = images/silhouette_kmeans_plot.jpg>
