@@ -20,7 +20,7 @@ Evaluation of silhouette coefficients after clustering with K-Means : Data point
 <p align="center">
   <img width="600" height="400" src = images/silhouette_kmeans_plot.jpg>
 </p>
-Visualization after log transformation
+Visualization after log transformation : The groups are well dstirbuted comparing to the previous clustering. 
 
 <p align="center">
   <img width="600" height="400" src = images/silhouette_kmeans_plot_2.jpg>
